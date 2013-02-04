@@ -4,7 +4,7 @@ Release Date: February 2013.
 
 ///// Resources /////
 - Normalize.css
-- jQuery Easing Plugin (version 1.3)
+- jQuery Easing Plugin
 - Stellar.js
 
 ///// Questions & Contact /////
