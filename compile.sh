@@ -2,12 +2,12 @@
 
 # check to see if cleancss is installed
 command -v cleancss >/dev/null 2>&1 || {
-  echo "cleancss is required. run: sudo npm install clean-css -g" >&2; exit 1;
+  echo 'cleancss is required. run: sudo npm install clean-css -g' >&2; exit 1;
 }
 
 # check to see if uglifyjs is installed
 command -v uglifyjs >/dev/null 2>&1 || {
-  echo "uglifyjs is required. run: sudo npm install uglify-js -g" >&2; exit 1;
+  echo 'uglifyjs is required. run: sudo npm install uglify-js -g' >&2; exit 1;
 }
 
 # find the folder that this script is in. this is the root of the project
