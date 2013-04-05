@@ -34,3 +34,5 @@ Website: www.jalxob.com/cool-kitten
 Author's website: www.jalxob.com
 Twitter: @Jalxob
 
+Build script and additional changes bj @james2doyle
+
